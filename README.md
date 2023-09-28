@@ -2,18 +2,6 @@
 
 AdMediaTest is a Django-based project designed to track and analyze advertisement spend and revenue statistics. This project helps organizations make informed decisions based on comprehensive ad performance data.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Creating Test Data](#creating-test-data)
-- [API Endpoints](#api-endpoints)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
