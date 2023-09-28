@@ -70,9 +70,9 @@ WSGI_APPLICATION = 'AdMediaTest.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": os.environ.get("SQL_DATABASE", "admedia"),
+        "NAME": os.environ.get("SQL_DATABASE", "your_db"),
         "USER": os.environ.get("SQL_USER", "postgres"),
-        "PASSWORD": os.environ.get("SQL_PASSWORD", "1962639196"),
+        "PASSWORD": os.environ.get("SQL_PASSWORD", "your_password"),
         "HOST": os.environ.get("SQL_HOST", "localhost"),
         "PORT": os.environ.get("SQL_PORT", "5432"),
     },
